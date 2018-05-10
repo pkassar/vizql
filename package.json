@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aegorenkov/vizql.git"
+    "url": "git+https://github.com/pkassar/vizql.git"
   },
   "keywords": [
     "schema",
@@ -23,10 +23,7 @@
   ],
   "author": "PEA",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/aegorenkov/vizql/issues"
-  },
-  "homepage": "https://github.com/aegorenkov/vizql#readme",
+  "homepage": "https://github.com/pkassar/vizql#readme",
   "dependencies": {
     "expect": "^22.4.3",
     "express": "^4.16.3",
